@@ -1,4 +1,4 @@
-package baekjoon;
+package print;
 
 public class Print1 {
 

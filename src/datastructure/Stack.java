@@ -12,7 +12,7 @@ public class Stack {
 		int top = -1;
 		
 		int add = 0;
-		String commend;
+		String commend; 
 		for (int i = 0; i < n; i++) {
 			commend = sc.next();
 			if (commend.equals("push"))
